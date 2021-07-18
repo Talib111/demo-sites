@@ -1,0 +1,11 @@
+@media(min-width:0) and (max-width:600px){
+    .sites .row div{
+        margin-top: 20px;
+    
+    }
+}
+
+.sites img{
+    box-shadow: -2px 2px 6px grey;
+    border: 1px solid white;
+}
